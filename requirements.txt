@@ -1,0 +1,8 @@
+python-dotenv
+google-generativeai
+langchain
+PyPDF2
+faiss-cpu
+streamlit
+-e .
+##this -e . will jelp to set up and run setup.py  
